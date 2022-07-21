@@ -7,6 +7,7 @@ public class Sample1 {
 		System.out.println("java selenium automation testng");
 		System.out.println("Velocity Testing classes");
 
+		System.out.println("hello sonam");
 	}
 
 }
